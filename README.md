@@ -4,6 +4,7 @@ It is a single page application for NGOs that need financial help to solve a spe
 For NGOs to register a new case, they access a single page web application created in React,
 where she records the case with her basic information for which she needs financial help with a brief description and valuen to try
 find someone willing to help.
+
 People interested in helping to use an APP (Android or IOS) developed in ReacNative,
 to access all cases registered in the database and obtain all data to contacting NGOs.
 BackEnd is developed in Node.JS and use a SQLite to saving data.
